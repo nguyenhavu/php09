@@ -1,0 +1,101 @@
+ *{
+  margin: 0;
+  padding: 0;
+}
+header{ 
+	width: 99%;
+    height: 150px;
+    background-color: blue;
+     line-height: 40px;
+}
+.header1{
+    width: 15%;
+    height: 80px;
+    background-color: red;
+    float: left;
+    text-align: center;
+    border: 5px solid white;
+}
+.header2{
+	width: 67%;
+	height: 80px;
+	background-color: red;
+	float: left;
+	text-align: center;
+	border:5px solid white;
+}
+.header3{
+	width: 15%;
+	height:80px;
+	background-color: red;
+	float: right;
+	text-align: center;
+	border:5px solid white;
+}
+#hero{
+	width: 99%
+	height 150px;
+	background-color: blue;
+    line-height: 40px;
+}
+.hero1{
+    width: 35%;
+    height: 70px;
+    background-color: red;
+    float: left;
+    border: 5px solid white;
+}
+.hero2{
+    width: 35%;
+    height: 70px;
+    background-color:red;
+    float: left;
+    border:5px solid white;
+}
+.hero3 {
+	width: 27%;
+	height: 70px;
+	background-color: red;
+	float: right;
+	border: 5px solid white
+}
+#sidebor{
+	float: right;
+}
+
+
+body{
+	width: 99%;
+   	height: 450px;
+	background-color: blue;
+    line-height: 40px;
+}
+.body1{
+	width: 41%;
+	height: 400px;
+	background-color: red;
+	float: left;
+	border: 15px solid white
+}
+.body2{
+	width: 41%;
+	height: 400px;
+	background-color: red;
+	float: left;
+	border: 15px solid white;
+}
+.body3{
+	width: 38%px;
+	height: 400px;
+	background-color: red;
+	float: right;
+	border: 15px solid white;
+}
+footer{
+    width: 99%;
+    height: 100px;
+    background-color: red ;
+    border: 2px solid white;
+    margin-top: 523px;
+    line-height: 50px;
+    }
